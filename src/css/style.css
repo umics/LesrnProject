@@ -23,7 +23,7 @@ h1{
 
 .chap{width: 35%;}  /* Длина черточки  */
 h2 {
-    color: #A0522D	;
+    /* color: #A0522D	; */
     text-align: center;
     font-weight: bold;
     font-style: italic;
@@ -55,7 +55,7 @@ text-transform: uppercase;}
     border-color: black; */ 
     border: 3px solid aqua ;  /* комбинированно */
 
-    margin: 20px;
+    /* margin: 20px; */
 }
     img{display: block;
         width: 30vw;
