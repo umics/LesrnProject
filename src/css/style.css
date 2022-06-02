@@ -1,0 +1,91 @@
+селектор {
+    свойство: значение;
+    свойство: значение;
+    свойство: значение;
+}
+/* *{box-sizing: border-box;} */ /* Селектор распространяется на весь код  */
+.image-align {
+    text-align: center;
+}
+
+.image-wrap {
+    width: 500px;
+    height: 300px;
+    border: 1px solid grey;
+}
+.image-center {
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+
+.chap{width: 35%;}  /* Длина черточки  */
+h2 {
+    color: #A0522D	;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    /* text-decoration: underline; */
+    text-decoration: line-through;
+    font-size: 30px;
+}
+#kk{font-weight: 900;
+text-transform: uppercase;}
+.chapter {color: rgb(218,165,32,);
+    font-weight: bold;}   эъ.дои
+
+#begin{color: rgb(0,255,255);
+    font-weight: bold;}
+
+.box{             /* Блочная система CSS */
+
+    /* box-sizing: border-box; */
+    vertical-align: top;
+    display: inline-block;
+    width: 180px;
+    height: 400px;
+    /* background-image: url(https://sun7.userapi.com/sun7-13/s/v1/ig2/rlnHO088Nzu76NjrirQbTNRCSekI16lvhVlpRVRPHAy2CNvWxcF1m2KzjvSuVeF5CaRz-5dAE4CTg4x-dKBRvlWH.jpg?size=500x500&quality=96&type=album); */
+    /* padding-left: 50px; */
+    /* padding-top: 20px; */
+     padding: 20px 50px 40px 60px; 
+    /* border-width: 3px;
+    border-style: solid;
+    border-color: black; */ 
+    border: 3px solid aqua ;  /* комбинированно */
+
+    margin: 20px;
+}
+    img{display: block;
+        width: 30vw;
+    margin: 0 auto;
+/* float: left; обтикание блока */
+}
+
+        a{
+            padding: 20px;
+            margin: 300px;
+            width: 500px;
+        }
+
+
+/* Блочные */
+ /* Строчные  */
+ /* Строчно-блочные */
+
+ nav {
+
+     /* position: st1atic, relative absolute, fixed, inherit*/
+     position: inherit;
+     right: 0px;
+     top: 50px;
+     /* bottom, top, right, left  */
+ }
+ .example { background-color: gray;
+    height: 500px;
+position: relative;}
+
+.red {
+    background-color: red;
+}
